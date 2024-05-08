@@ -7,7 +7,7 @@ A lightweight JavaScript library for data validation in Node.js and browser envi
 You can install the Data Validation Library via npm:
 
 ```bash
-npm install data-validation-library
+npm install vader-data-validator
 ```
 
 ## Usage
