@@ -1,6 +1,6 @@
 {
   "name": "vader-data-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "data validation library",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vader26/data-validator/issues"
   },
-  "homepage": "https://github.com/vader26/data-validator#readme"
+  "homepage": "https://github.com/vader26/data-validator#readme",
+  "dependencies": {
+    "vader-task-scheduler": "^1.0.0"
+  }
 }
