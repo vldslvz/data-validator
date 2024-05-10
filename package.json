@@ -1,6 +1,6 @@
 {
-  "name": "vader-data-validator",
-  "version": "1.0.2",
+  "name": "vldslvz-data-validator",
+  "version": "1.0.0",
   "description": "data validation library",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vader26/data-validator.git"
+    "url": "https://github.com/vldslvz/data-validator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vader26/data-validator/issues"
+    "url": "https://github.com/vldslvz/data-validator/issues"
   },
-  "homepage": "https://github.com/vader26/data-validator#readme",
-  "dependencies": {
-    "vader-task-scheduler": "^1.0.0"
-  }
+  "homepage": "https://github.com/vldslvz/data-validator#readme"
 }
