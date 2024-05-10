@@ -1,6 +1,6 @@
 {
   "name": "vldslvz-data-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "data validation library",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/vldslvz/data-validator.git"
+  },
+  "dependencies": {
+    "vldslvz-task-scheduler": "1.0.0"
   },
   "author": "",
   "license": "ISC",
